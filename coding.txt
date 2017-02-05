@@ -3,3 +3,9 @@
 #This script will read the database and present it in html
 
 #code
+<html>
+	<header>Title </header>
+	<body>
+	<div>Hello World</div> 
+	</body>
+</html>
