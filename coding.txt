@@ -1,1 +1,3 @@
 version2.0
+
+#This script will read the database and present it in html
